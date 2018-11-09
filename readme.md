@@ -6,3 +6,6 @@ https://github.com/vuejs/vue-devtools
 
 ## Class 3 - Lists
 /class3
+
+## Class 4 - Vue Event Listeners
+/class4
