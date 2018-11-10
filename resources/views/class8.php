@@ -3,7 +3,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="utf-8">
-    <title>Class 7</title>
+    <title>Class 8</title>
     <style>
 
     </style>

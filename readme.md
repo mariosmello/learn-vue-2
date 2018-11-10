@@ -21,3 +21,6 @@ https://github.com/vuejs/vue-devtools
 
 ## Class 8 - Components Within Components
 /class8
+
+## Class 9 - Practical Component Exercise #1: Message
+/class9

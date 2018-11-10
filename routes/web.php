@@ -32,3 +32,6 @@ Route::get('/class7', function () {
 Route::get('/class8', function () {
     return view('class8');
 });
+Route::get('/class9', function () {
+    return view('class9');
+});
