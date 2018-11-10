@@ -9,6 +9,9 @@ https://github.com/vuejs/vue-devtools
 
 ## Class 4 - Vue Event Listeners
 /class4
-
+ 
 ## Class 5 - Attribute and Class Binding
 /class5
+
+## Class 6 - The Need for Computed Properties
+/class6

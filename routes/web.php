@@ -23,3 +23,6 @@ Route::get('/class4', function () {
 Route::get('/class5', function () {
     return view('class5');
 });
+Route::get('/class6', function () {
+    return view('class6');
+});
