@@ -20,3 +20,6 @@ Route::get('/class3', function () {
 Route::get('/class4', function () {
     return view('class4');
 });
+Route::get('/class5', function () {
+    return view('class5');
+});
