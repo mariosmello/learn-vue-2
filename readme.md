@@ -15,3 +15,7 @@ https://github.com/vuejs/vue-devtools
 
 ## Class 6 - The Need for Computed Properties
 /class6
+
+
+## Class 7 - Components
+/class6
