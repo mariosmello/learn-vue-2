@@ -24,3 +24,9 @@ https://github.com/vuejs/vue-devtools
 
 ## Class 9 - Practical Component Exercise #1: Message
 /class9
+
+## Class 10 - Practical Component Exercise #2: Modal
+/class10
+
+## Class 11 - Practical Component Exercise #3: Tabs
+/class11
