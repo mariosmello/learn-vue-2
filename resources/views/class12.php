@@ -14,6 +14,10 @@
 
 <div id="root" class="container">
 
+    <coupon @applied="onCouponApplied"></coupon>
+
+    <h1 v-if="couponApplied">You used a coupon!</h1>
+
 </div>
 
 <script src="https://unpkg.com/vue@2.5.17/dist/vue.js"></script>

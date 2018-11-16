@@ -30,3 +30,6 @@ https://github.com/vuejs/vue-devtools
 
 ## Class 11 - Practical Component Exercise #3: Tabs
 /class11
+
+## Class 12 - Component Communication Example #1: Custom Events
+/class12
