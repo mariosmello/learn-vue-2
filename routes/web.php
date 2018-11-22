@@ -44,3 +44,6 @@ Route::get('/class11', function () {
 Route::get('/class12', function () {
     return view('class12');
 });
+Route::get('/class13', function () {
+    return view('class13');
+});

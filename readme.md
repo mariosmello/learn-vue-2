@@ -33,3 +33,6 @@ https://github.com/vuejs/vue-devtools
 
 ## Class 12 - Component Communication Example #1: Custom Events
 /class12
+
+## Class 13 - Component Communication Example #2: Event Dispatcher
+/class12
