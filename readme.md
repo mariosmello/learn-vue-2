@@ -39,3 +39,6 @@ https://github.com/vuejs/vue-devtools
 
 ## Class 14 - Named Slots in a Nutshell
 /class14
+
+## Class 15 - Single-Use Components and Inline Templates
+/class15
