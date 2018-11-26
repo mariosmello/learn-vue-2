@@ -11,39 +11,6 @@
 |
 */
 
-Route::get('/class1', function () {
-    return view('class1');
-});
-Route::get('/class3', function () {
-    return view('class3');
-});
-Route::get('/class4', function () {
-    return view('class4');
-});
-Route::get('/class5', function () {
-    return view('class5');
-});
-Route::get('/class6', function () {
-    return view('class6');
-});
-Route::get('/class7', function () {
-    return view('class7');
-});
-Route::get('/class8', function () {
-    return view('class8');
-});
-Route::get('/class9', function () {
-    return view('class9');
-});
-Route::get('/class10', function () {
-    return view('class10');
-});
-Route::get('/class11', function () {
-    return view('class11');
-});
-Route::get('/class12', function () {
-    return view('class12');
-});
-Route::get('/class13', function () {
-    return view('class13');
+Route::get('/class{number}', function ($number) {
+    return view('class' . $number);
 });

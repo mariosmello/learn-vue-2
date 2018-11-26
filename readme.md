@@ -35,4 +35,7 @@ https://github.com/vuejs/vue-devtools
 /class12
 
 ## Class 13 - Component Communication Example #2: Event Dispatcher
-/class12
+/class13
+
+## Class 14 - Named Slots in a Nutshell
+/class14
